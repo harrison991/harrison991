@@ -10,13 +10,12 @@
 
 # 🛠️ Hi, I'm Harrison! 
 
-I'm a developer, aspiring engineer, and production tech based in **Brisbane, Australia**. I’m currently balancing Year 10 Advanced Math/Science with a deep dive into full-stack development and real-world engineering projects.
+I'm a developer, aspiring engineer, and production tech based in **Brisbane, Australia**. I’m currently balancing Year 10 with a deep dive into full-stack development and real-world engineering projects.
 
 ---
 
 ### 🏎️ Featured Project: Team Armada
 I am a core member of **Armada**, a STEM Racing team. My work here involves:
-* **Engineering & Physics:** Calculating moments, reactions at supports, and friction for competitive racing.
 * **Sponsorship & Networking:** Managing outreach to major firms like *Aurecon* and *AECOM*.
 * **Branding:** Developing a unique identity for our team of four.
 
