@@ -8,18 +8,55 @@
   </a>
   </p>
 
-## 👨‍💻 About Me
+# 🛠️ Hi, I'm Harrison! 
 
-```yaml
-identity: Harrison
-location: Brisbane, Australia
-current_focus:
-  - Year 10 Advanced Math & Science
-  - Engineering (Moments, Reactions, & Friction)
-  - Full-stack Web Dev with Next.js
-passions:
-  - Aviation: Flight tracking & simulation
-  - Production: Lighting design & DMX programming
-  - Racing: Member of STEM Racing Team "Armada"
-  - Creative: Photography (Canon 90D/R10) & Videography
-```
+I'm a developer, aspiring engineer, and production tech based in **Brisbane, Australia**. I’m currently balancing Year 10 Advanced Math/Science with a deep dive into full-stack development and real-world engineering projects.
+
+---
+
+### 🏎️ Featured Project: Team Armada
+I am a core member of **Armada**, a STEM Racing team. My work here involves:
+* **Engineering & Physics:** Calculating moments, reactions at supports, and friction for competitive racing.
+* **Sponsorship & Networking:** Managing outreach to major firms like *Aurecon* and *AECOM*.
+* **Branding:** Developing a unique identity for our team of four.
+
+---
+
+### 💻 What I’m Building
+* **Web Dev:** Currently mastering **Next.js** to build high-performance web applications.
+* **Hardware & IoT:** Experimenting with **Raspberry Pi** and server infrastructure.
+* **Automation:** Using **Python** and **Flask** for backend logic and AI-driven tools.
+* **Event Tech:** Diving into **DMX programming** and lighting design for live event production.
+
+---
+
+### 🛠️ Tech Stack & Gear
+**Languages & Frameworks**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Hardware & Production**
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![Canon](https://img.shields.io/badge/Canon%2090D/R10-red?style=for-the-badge&logo=canon&logoColor=white)
+![Aviation](https://img.shields.io/badge/Aviation-Flight%20Tracking-blue?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=harrison991&show_icons=true&theme=transparent" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison991&layout=compact&theme=transparent" height="150" />
+</p>
+
+### 📫 Let's Connect
+When I'm not coding or studying engineering, you can find me:
+* ✈️ Tracking flights or in a flight sim.
+* 🚣 Rowing or swimming at practice.
+* 📸 Out with my Canon 90D/R10 capturing footage.
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>
