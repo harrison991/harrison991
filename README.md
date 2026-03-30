@@ -44,12 +44,6 @@ I am a core member of **Armada**, a STEM Racing team. My work here involves:
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=harrison991&show_icons=true&theme=transparent" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrison991&layout=compact&theme=transparent" height="150" />
-</p>
-
 ### 📫 Let's Connect
 When I'm not coding or studying engineering, you can find me:
 * ✈️ Tracking flights or in a flight sim.
